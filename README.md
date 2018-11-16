@@ -23,3 +23,11 @@ This repository contains Jupyter notebooks implementing the code samples found i
     * [7.4: Recursion in Linguistic Structure](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/7.4-recursion-in-linguistic-structure.ipynb)
     * [7.5: Named Entity Recognition](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/7.5-named-entity-recognition.ipynb)
     * [7.6: Relation Extraction](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/7.6-relation-extraction.ipynb)
+
+* 第 8 章：
+    * [8.1: 一些语法困境](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.1-some-grammatical-dilemmas.ipynb)
+    * [8.2: 文法有什么用？](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.2-whats-the-use-of-syntax.ipynb)
+    * [8.3: 上下文无关文法](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.3-context-free-grammar.ipynb)
+    * [8.4: 上下文无关文法分析](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.4-parsing-with-context-free-grammar.ipynb)
+    * [8.5: 依存关系和依存文法](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.5-dependencies-and-dependency-grammar.ipynb)
+    * [8.6: 文法开发](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.6-grammar-development.ipynb)
