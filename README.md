@@ -31,3 +31,8 @@ This repository contains Jupyter notebooks implementing the code samples found i
     * [8.4: 上下文无关文法分析](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.4-parsing-with-context-free-grammar.ipynb)
     * [8.5: 依存关系和依存文法](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.5-dependencies-and-dependency-grammar.ipynb)
     * [8.6: 文法开发](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/8.6-grammar-development.ipynb)
+  
+* 第 9 章：
+    * [9.1: 文法特征](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/9.1-grammatical-features.ipynb)
+    * [9.2: 处理特征结构](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/9.2-processing-feature-structures.ipynb)
+    * [9.3: 扩展基于特征的文法](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/9.3-extending-a-feature-based-grammar.ipynb)
