@@ -36,3 +36,11 @@ This repository contains Jupyter notebooks implementing the code samples found i
     * [9.1: 文法特征](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/9.1-grammatical-features.ipynb)
     * [9.2: 处理特征结构](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/9.2-processing-feature-structures.ipynb)
     * [9.3: 扩展基于特征的文法](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/9.3-extending-a-feature-based-grammar.ipynb)
+     
+* 第 10 章：
+    * [10.1: 自然语言理解](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/10.1-natural-language-understanding.ipynb)
+    * [10.2: 命题逻辑](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/10.2-propositional-logic.ipynb)
+    * [10.3: 一阶逻辑](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/10.3-first-order-logic.ipynb)
+    * [10.4: 英语句子的语义](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/10.4-the-semantics-of-english-sentences.ipynb)
+    * [10.5: 段落语义层](http://nbviewer.jupyter.org/github/pen-x/natural-language-processing-with-python/blob/master/10.5-discourse-semantics.ipynb)
+  
